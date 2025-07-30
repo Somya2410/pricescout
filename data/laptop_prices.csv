@@ -1,0 +1,81 @@
+platform,brand,model,price,city,rating,date
+Amazon,Dell,Inspiron 15 3000,45000,Bhopal,4.2,2024-01-15
+Flipkart,HP,Pavilion 14,52000,Bhopal,4.1,2024-01-16
+Reliance Digital,Lenovo,IdeaPad 3,38000,Bhopal,4.0,2024-01-17
+Amazon,Acer,Aspire 5,42000,Bhopal,3.9,2024-01-18
+Flipkart,ASUS,VivoBook 15,48000,Bhopal,4.3,2024-01-19
+Reliance Digital,Dell,Vostro 3400,55000,Bhopal,4.1,2024-01-20
+Amazon,HP,15s-fq2535TU,40000,Bhopal,4.0,2024-01-21
+Flipkart,Lenovo,ThinkPad E14,68000,Bhopal,4.4,2024-01-22
+Reliance Digital,Acer,Nitro 5,75000,Bhopal,4.2,2024-01-23
+Amazon,ASUS,TUF Gaming F15,82000,Bhopal,4.5,2024-01-24
+Flipkart,Dell,XPS 13,95000,Bhopal,4.6,2024-01-25
+Reliance Digital,HP,Envy 13,78000,Bhopal,4.3,2024-01-26
+Amazon,Lenovo,Legion 5,89000,Bhopal,4.4,2024-01-27
+Flipkart,Acer,Predator Helios 300,105000,Bhopal,4.5,2024-01-28
+Reliance Digital,ASUS,ROG Strix G15,98000,Bhopal,4.6,2024-01-29
+Amazon,Dell,Inspiron 15 5000,58000,Mumbai,4.1,2024-02-01
+Flipkart,HP,Pavilion Gaming 15,72000,Mumbai,4.2,2024-02-02
+Reliance Digital,Lenovo,IdeaPad Gaming 3,65000,Mumbai,4.0,2024-02-03
+Amazon,Acer,Swift 3,54000,Mumbai,4.1,2024-02-04
+Flipkart,ASUS,ZenBook 14,67000,Mumbai,4.3,2024-02-05
+Reliance Digital,Dell,Latitude 3420,62000,Mumbai,4.0,2024-02-06
+Amazon,HP,ProBook 450 G8,59000,Mumbai,3.9,2024-02-07
+Flipkart,Lenovo,Yoga Slim 7,74000,Mumbai,4.2,2024-02-08
+Reliance Digital,Acer,Aspire 7,68000,Mumbai,4.1,2024-02-09
+Amazon,ASUS,VivoBook Pro 15,71000,Mumbai,4.2,2024-02-10
+Flipkart,Dell,Inspiron 14 5000,49000,Delhi,4.0,2024-02-11
+Reliance Digital,HP,Laptop 15s-eq2143AU,36000,Delhi,3.8,2024-02-12
+Amazon,Lenovo,IdeaPad Slim 3,44000,Delhi,4.0,2024-02-13
+Flipkart,Acer,Extensa 15,41000,Delhi,3.9,2024-02-14
+Reliance Digital,ASUS,X515EA,46000,Delhi,4.1,2024-02-15
+Amazon,Dell,Vostro 3500,52000,Delhi,4.0,2024-02-16
+Flipkart,HP,14s-dq2535TU,43000,Delhi,3.9,2024-02-17
+Reliance Digital,Lenovo,ThinkBook 15,56000,Delhi,4.1,2024-02-18
+Amazon,Acer,TravelMate P2,48000,Delhi,3.8,2024-02-19
+Flipkart,ASUS,ExpertBook B1400,51000,Delhi,4.0,2024-02-20
+Reliance Digital,Dell,Inspiron 15 3511,47000,Bangalore,4.1,2024-02-21
+Amazon,HP,Pavilion x360 14,64000,Bangalore,4.2,2024-02-22
+Flipkart,Lenovo,IdeaPad Flex 5,58000,Bangalore,4.0,2024-02-23
+Reliance Digital,Acer,Spin 3,61000,Bangalore,4.1,2024-02-24
+Amazon,ASUS,VivoBook Flip 14,55000,Bangalore,4.0,2024-02-25
+Flipkart,Dell,Inspiron 14 2-in-1,67000,Bangalore,4.2,2024-02-26
+Reliance Digital,HP,Spectre x360 13,92000,Bangalore,4.4,2024-02-27
+Amazon,Lenovo,Yoga 7i,86000,Bangalore,4.3,2024-02-28
+Flipkart,Acer,ConceptD 3,95000,Bangalore,4.2,2024-03-01
+Reliance Digital,ASUS,ProArt StudioBook,125000,Bangalore,4.5,2024-03-02
+Amazon,Dell,XPS 15,145000,Chennai,4.6,2024-03-03
+Flipkart,HP,ZBook Studio G8,135000,Chennai,4.5,2024-03-04
+Reliance Digital,Lenovo,ThinkPad X1 Carbon,128000,Chennai,4.4,2024-03-05
+Amazon,Acer,Swift X,75000,Chennai,4.2,2024-03-06
+Flipkart,ASUS,ZenBook Pro 15,98000,Chennai,4.3,2024-03-07
+Reliance Digital,Dell,Precision 3560,112000,Chennai,4.2,2024-03-08
+Amazon,HP,EliteBook 840 G8,89000,Chennai,4.1,2024-03-09
+Flipkart,Lenovo,ThinkPad P15,142000,Chennai,4.4,2024-03-10
+Reliance Digital,Acer,ConceptD 7,158000,Chennai,4.5,2024-03-11
+Amazon,ASUS,ROG Zephyrus G14,115000,Chennai,4.6,2024-03-12
+Flipkart,Dell,Alienware m15,165000,Pune,4.7,2024-03-13
+Reliance Digital,HP,Omen 15,98000,Pune,4.3,2024-03-14
+Amazon,Lenovo,Legion 7i,135000,Pune,4.5,2024-03-15
+Flipkart,Acer,Predator Triton 500,148000,Pune,4.4,2024-03-16
+Reliance Digital,ASUS,ROG Strix Scar 15,152000,Pune,4.6,2024-03-17
+Amazon,Dell,G15 Gaming,78000,Pune,4.2,2024-03-18
+Flipkart,HP,Victus 16,85000,Pune,4.1,2024-03-19
+Reliance Digital,Lenovo,IdeaPad Gaming 3i,72000,Pune,4.0,2024-03-20
+Amazon,Acer,Nitro 7,88000,Pune,4.2,2024-03-21
+Flipkart,ASUS,TUF Dash F15,92000,Pune,4.3,2024-03-22
+Reliance Digital,Dell,Inspiron 15 Gaming,69000,Hyderabad,4.1,2024-03-23
+Amazon,HP,Pavilion Gaming 16,81000,Hyderabad,4.2,2024-03-24
+Flipkart,Lenovo,Legion 5 Pro,115000,Hyderabad,4.4,2024-03-25
+Reliance Digital,Acer,Predator Helios 700,175000,Hyderabad,4.6,2024-03-26
+Amazon,ASUS,ROG Flow X13,125000,Hyderabad,4.5,2024-03-27
+Flipkart,Dell,Inspiron 13 5000,53000,Bhopal,4.0,2024-03-28
+Reliance Digital,HP,Laptop 14s-cf3047TU,39000,Bhopal,3.8,2024-03-29
+Amazon,Lenovo,IdeaPad 3 15ITL6,42000,Bhopal,3.9,2024-03-30
+Flipkart,Acer,Aspire 3 A315,35000,Bhopal,3.7,2024-03-31
+Reliance Digital,ASUS,X415JA,41000,Bhopal,3.9,2024-04-01
+Amazon,Dell,Inspiron 15 3505,44000,Bhopal,4.0,2024-04-02
+Flipkart,HP,15s-eq1156AU,37000,Bhopal,3.8,2024-04-03
+Reliance Digital,Lenovo,V15 IML,40000,Bhopal,3.9,2024-04-04
+Amazon,Acer,Aspire 5 A514,46000,Bhopal,4.0,2024-04-05
+Flipkart,ASUS,VivoBook 14 X415,43000,Bhopal,3.9,2024-04-06
